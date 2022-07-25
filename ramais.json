@@ -1,17 +1,16 @@
 {
-"usuarios":[
-    
+"usuarios": [
     {
     "nome":"Luciano Paiva Botelho",
-    "ramal":"1697"
+    "ramal":1697
 },
 {
     "nome":"Wellington Araújo",
-    "ramal":"1627"
+    "ramal":1627
 },
 {
     "nome":"X salada",
-    "ramal":"8902"
+    "ramal":8902
 }
  
 ]
